@@ -1,0 +1,44 @@
+.container{
+  border: 2px solid red;
+ 
+}
+.text1{
+  font-size: 75px;
+  text-align: center;
+
+
+}
+
+.box{ 
+    height: 300px;
+    width: 200px;
+    display: flex;
+    text-align: center;
+    
+    display: inline-block;
+    display: flexbox;
+    margin: 100px;
+    border-radius: 10px;
+    box-shadow: 5px 5px gray;
+    border: 5px solid orangered;
+
+}
+/* .box1{
+  border: 5px solid orangered;
+ 
+}
+ .box2{ 
+  border: 5px solid orangered;
+}
+
+.box3{
+  border: 5px solid orangered;
+} */
+.text{
+  text-decoration: line-through;
+}
+.plus{
+  font-size: 55px;
+  color: orange;
+  font-stretch: normal;
+}
